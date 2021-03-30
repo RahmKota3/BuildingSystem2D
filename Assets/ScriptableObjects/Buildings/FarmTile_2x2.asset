@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2f818898f4a5cd848ab45e58ddb81937, type: 3}
+  m_Name: FarmTile_2x2
+  m_EditorClassIdentifier: 
+  BuildingPrefab: {fileID: 6491455871639803781, guid: 4de506efc86a7d4468138814f081e88b,
+    type: 3}
+  buildingGridSize: {x: 2, y: 2}
